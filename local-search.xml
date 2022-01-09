@@ -4,6 +4,19 @@
   
   
   <entry>
+    <title>测试与感想</title>
+    <link href="/2022/01/08/%E6%B5%8B%E8%AF%95%E4%B8%8E%E6%84%9F%E6%83%B3/"/>
+    <url>/2022/01/08/%E6%B5%8B%E8%AF%95%E4%B8%8E%E6%84%9F%E6%83%B3/</url>
+    
+    <content type="html"><![CDATA[<p>唉，鼓捣了那么久好多错误都犯了。终于差不多弄好了。<br>思考思考，这篇来验证crontab写的定时任务行不行！嘻嘻</p>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>test</title>
     <link href="/2022/01/08/test/"/>
     <url>/2022/01/08/test/</url>
